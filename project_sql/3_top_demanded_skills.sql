@@ -20,7 +20,7 @@ ORDER BY
     demand_count DESC 
 LIMIT 5;
 
-/* Here's a breakdown of the most demanded skills for data analysts in 2023:
+/* Here's the breakdown of the most demanded skills for data analysts in 2023:
 Employers value a combination of database management, spreadsheet analysis, programming, and data visualization skills, 
 making SQL, Excel, and Python particularly important foundations for aspiring data analysts.
 [
